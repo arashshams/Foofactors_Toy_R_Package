@@ -78,6 +78,4 @@ fcount(x)
 #> 4 b        19
 #> 5 e        19
 ```
-=======
-# foofactors
->>>>>>> aab046ec39c92b3ba617f96b3c88a2ebc3304142
+
