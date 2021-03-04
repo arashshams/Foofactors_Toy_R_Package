@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
@@ -22,7 +22,7 @@ care and feeding of factors.
 You can install foofactors like so:
 
 ``` r
-devtools::install_github("jennybc/foofactors")
+devtools::install_github("arashshams/foofactors")
 ```
 
 ## Quick demo
